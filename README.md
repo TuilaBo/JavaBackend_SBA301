@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Orchid Management System - Spring Boot API
 
 Hệ thống quản lý hoa lan được xây dựng bằng Spring Boot với JWT authentication.
@@ -226,3 +227,6 @@ Nếu gặp lỗi 403, kiểm tra:
 ## License
 
 MIT License 
+=======
+# JavaBackend_SBA301
+>>>>>>> 558225a868aeed6907ca229361d969f66938c1f3
